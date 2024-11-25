@@ -1,0 +1,18 @@
+.wellcome-message{
+  font-size: 2.5cm;
+  background-color: rgb(59, 198, 94);
+  color: aliceblue;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0;
+}
+.login-prompt{
+
+  font-size: 2.5cm;
+  background-color:red;
+  color: aliceblue;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0;
+
+}
